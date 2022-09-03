@@ -14,5 +14,3 @@ https://chrtopf.ddns.net
 ### Stats
 
 <a href="http://www.github.com/ChrTopf"><img src="https://github-readme-stats.vercel.app/api?username=ChrTopf&show_icons=true&hide=stars,contribs&count_private=true&title_color=ff5429&text_color=ffffff&icon_color=ff5429&bg_color=1c1917&hide_border=true&show_icons=true" alt="ChrTopf's GitHub stats" /></a>
-
-<a href="https://github.com/ChrTopf" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrTopf&langs_count=10&title_color=ff5429&text_color=ffffff&icon_color=ff5429&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="ChrTopf's Top Languages" /></a>
