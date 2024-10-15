@@ -9,7 +9,7 @@ I started coding in 2017 with the age of 16. Since then i have been mostly worki
 
 ### Further Information
 
-https://chrtopf.ddns.net
+https://chrtopf.net
 
 ### Stats
 
